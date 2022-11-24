@@ -9,8 +9,9 @@ public class Main {
         System.out.println("Ciclo While");
 
         while(c<=16){
+            System.out.println(""+(2*(2*c)));
             n = Math.pow(2,c);
-            System.out.println(n);
+           // System.out.println(n);
             c++;
         }
         System.out.println("///////////////////////////////////////");
