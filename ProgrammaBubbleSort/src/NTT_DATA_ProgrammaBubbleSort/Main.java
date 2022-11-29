@@ -5,7 +5,7 @@ package NTT_DATA_ProgrammaBubbleSort;
         import java.util.Scanner;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InputMismatchException {
         Scanner kb = new Scanner(System.in);
         int n,i,c;
         int nA[] = new int[10];
