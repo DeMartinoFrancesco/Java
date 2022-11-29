@@ -1,6 +1,7 @@
 package NTT_DATA_ProgrammaBubbleSort;
 
         import java.util.Arrays;
+        import java.util.InputMismatchException;
         import java.util.Scanner;
 
 public class Main {
@@ -8,10 +9,15 @@ public class Main {
         Scanner kb = new Scanner(System.in);
         int n,i,c;
         int nA[] = new int[10];
-        for(i=0; i < nA.length; i++){
-            System.out.println("Inserisci il "+(i+1)+" numero");
-            n = kb.nextInt();
-            nA[i] = n;
+        try {
+            for (i = 0; i < nA.length; i++) {
+                System.out.println("Inserisci il " + (i + 1) + " numero");
+                n = kb.nextInt();
+                nA[i] = n;
+            }
+        }catch(InputMismatchException ime){
+            System.out.println("ERRORE:"+ime);
+            System.out.println("Riinserisci i dati");
         }
 
         bubbleSort(nA);

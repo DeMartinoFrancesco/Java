@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1505199a-00c0-4760-842d-d7fad713b8c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgrammaBubbleSort.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProgettoOggetti/src/NTTDATA/It/Programmaoggetti/Penna.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgettoOggetti/src/NTTDATA/It/Programmaoggetti/Penna.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Programma Giorni/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Programma Giorni/.idea/misc.xml" beforeDir="false" />
@@ -16,6 +11,9 @@
       <change beforePath="$PROJECT_DIR$/../Programma Giorni/ProgrammaGiorni.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Programma Giorni/src/Academy/GIORNI.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Programma1/out/production/Programma1/Academy/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programma1/out/production/Programma1/Academy/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgrammaBubbleSort/NTT_DATA_ProgrammaBubbleSort/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgrammaBubbleSort/NTT_DATA_ProgrammaBubbleSort/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NTT_DATA_ProgrammaBubbleSort/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NTT_DATA_ProgrammaBubbleSort/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +39,8 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/U-21/Desktop/git/Java/ProgrammaBubbleSort"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
